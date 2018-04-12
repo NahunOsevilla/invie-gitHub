@@ -1,3 +1,4 @@
 # invie-gitHub
 guitars website, (to apply knowledge in responsive design and git)
-By: NAHUN OSEGUERA REPO
+Available at: https://nahunosevilla.github.io/invie-gitHub/
+By: Nahun Oseguera
